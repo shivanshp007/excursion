@@ -21,7 +21,9 @@ body{
     
 }
 .link--cta {
-    font-size: 16px;
-    color: aquamarine;
+    font-size: 21px;
+    color:gray ;
+    text-align: right;
+    
 
 }
